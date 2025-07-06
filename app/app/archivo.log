@@ -1,0 +1,278 @@
+Analysis of C:\Users\Eduardo\Downloads\arena_3.5.1\Clipboard.pgn   
+Eduardo - Clase, ?, ?
+06/07/2025 10:04:46 Level: 2 Ply
+Analyzing engine: Stockfish
+
+1. e2-e4              
+    Best move (Stockfish): e2-e4
+    Identical moves! Found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          45	45k	+0,34	e2-e4
+   06/07/2025 10:04:50, Time for this analysis: 00:00:00, Rated time: 00:00
+
+1. ..b7-b5            
+    Best move (Stockfish): e7-e5
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          48	48k	-0,24	e7-e5
+   06/07/2025 10:04:51, Time for this analysis: 00:00:00, Rated time: 00:00
+
+2. Bf1xb5             
+    Best move (Stockfish): Bf1xb5
+    Identical moves! Found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          62	62k	+1,92	Bf1xb5
+   06/07/2025 10:04:53, Time for this analysis: 00:00:00, Rated time: 00:00
+
+2. ..e7-e6            
+    Best move (Stockfish): e7-e6
+    Identical moves! Found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          39	39k	-1,73	e7-e6
+   06/07/2025 10:04:55, Time for this analysis: 00:00:00, Rated time: 00:00
+
+3. Ng1-f3             
+    Best move (Stockfish): d2-d4
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/6	00:00	          74	74k	+1,83	d2-d4
+   06/07/2025 10:04:57, Time for this analysis: 00:00:00, Rated time: 00:00
+
+3. ..c7-c6            
+    Best move (Stockfish): Ng8-f6
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          60	60k	-1,52	Ng8-f6
+   06/07/2025 10:04:58, Time for this analysis: 00:00:00, Rated time: 00:00
+
+4. Bb5-a4             
+    Best move (Stockfish): Bb5-e2
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          70	70k	+2,37	Bb5-e2
+   06/07/2025 10:05:00, Time for this analysis: 00:00:00, Rated time: 00:00
+
+4. ..d7-d5            
+    Best move (Stockfish): Ng8-f6
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          74	74k	-1,90	Ng8-f6  d2-d3
+   06/07/2025 10:05:02, Time for this analysis: 00:00:00, Rated time: 00:00
+
+5. e4xd5              
+    Best move (Stockfish): d2-d3
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/6	00:00	          78	78k	+2,23	d2-d3
+   06/07/2025 10:05:04, Time for this analysis: 00:00:00, Rated time: 00:00
+
+5. ..Ng8-f6           
+    Best move (Stockfish): Qd8xd5
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/4	00:00	         182	182k	-2,69	Qd8xd5  d2-d4
+   06/07/2025 10:05:05, Time for this analysis: 00:00:00, Rated time: 00:00
+
+6. d5xe6              
+    Best move (Stockfish): d5xc6
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          74	74k	+3,82	d5xc6
+   06/07/2025 10:05:07, Time for this analysis: 00:00:00, Rated time: 00:00
+
+6. ..Bf8-b4           
+    Best move (Stockfish): Bc8xe6
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          77	77k	-3,18	Bc8xe6  d2-d4
+   06/07/2025 10:05:09, Time for this analysis: 00:00:00, Rated time: 00:00
+
+7. e6xf7+             
+    Best move (Stockfish): e6xf7
+    Identical moves! Found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          62	62k	+4,19	e6xf7+  Ke8xf7
+   06/07/2025 10:05:11, Time for this analysis: 00:00:00, Rated time: 00:00
+
+7. ..Ke8xf7           
+    Best move (Stockfish): Ke8-f8
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/5	00:00	          29	29k	-4,57	Ke8-f8  a2-a3
+   06/07/2025 10:05:12, Time for this analysis: 00:00:00, Rated time: 00:00
+
+8. Nf3-e5+            
+    Best move (Stockfish): Ba4-b3
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/6	00:00	          99	99k	+4,91	Ba4-b3+  Nf6-d5
+   06/07/2025 10:05:14, Time for this analysis: 00:00:00, Rated time: 00:00
+
+8. ..Kf7-f8           
+    Best move (Stockfish): Kf7-e8
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/5	00:00	          24	24k	-3,98	Kf7-e8  Ne5xc6
+   06/07/2025 10:05:16, Time for this analysis: 00:00:00, Rated time: 00:00
+
+9. Qd1-f3             
+    Best move (Stockfish): O-O
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          69	69k	+5,68	O-O
+   06/07/2025 10:05:18, Time for this analysis: 00:00:00, Rated time: 00:00
+
+9. ..Bc8-g4           
+    Best move (Stockfish): Qd8-e7
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	         103	103k	-3,36	Qd8-e7
+   06/07/2025 10:05:19, Time for this analysis: 00:00:00, Rated time: 00:00
+
+10. Ne5xg4            
+    Best move (Stockfish): Qf3-e3
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/6	00:00	         145	145k	+5,36	Qf3-e3
+   06/07/2025 10:05:21, Time for this analysis: 00:00:00, Rated time: 00:00
+
+10. ..Nb8-a6          
+    Best move (Stockfish): Qd8-e8
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/6	00:00	         246	246k	-5,75	Qd8-e8+  Ng4-e3
+   06/07/2025 10:05:23, Time for this analysis: 00:00:00, Rated time: 00:00
+
+11. O-O               
+    Best move (Stockfish): O-O
+    Identical moves! Found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/5	00:00	          79	79k	+6,80	O-O  Qd8-e8  Ng4xf6
+   06/07/2025 10:05:25, Time for this analysis: 00:00:00, Rated time: 00:00
+
+11. ..Kf8-e7          
+    Best move (Stockfish): Na6-c5
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/5	00:00	         133	133k	-6,70	Na6-c5  Ng4xf6  Nc5xa4
+   06/07/2025 10:05:26, Time for this analysis: 00:00:00, Rated time: 00:00
+
+12. Ng4xf6            
+    Best move (Stockfish): Ng4xf6
+    Identical moves! Found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/4	00:00	         121	121k	+6,90	Ng4xf6  g7xf6  Ba4xc6
+   06/07/2025 10:05:28, Time for this analysis: 00:00:00, Rated time: 00:00
+
+12. ..g7xf6           
+    Best move (Stockfish): g7xf6
+    Identical moves! Found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          85	85k	-6,90	g7xf6  Ba4xc6
+   06/07/2025 10:05:30, Time for this analysis: 00:00:00, Rated time: 00:00
+
+13. Rf1-e1+           
+    Best move (Stockfish): d2-d4
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/4	00:00	         146	146k	+7,29	d2-d4
+   06/07/2025 10:05:32, Time for this analysis: 00:00:00, Rated time: 00:00
+
+13. ..Ke7-d7          
+    Best move (Stockfish): Ke7-f7
+    Not found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/3	00:00	          14	14k	-7,08	Ke7-f7  Ba4xc6
+   06/07/2025 10:05:33, Time for this analysis: 00:00:00, Rated time: 00:00
+
+14. Qf3xc6# (Mate)    
+    Best move (Stockfish): Qf3xc6
+    Identical moves! Found in: 00:00
+   Available processors: 0-7
+   Using 1 thread
+   NNUE evaluation using nn-1c0000000000.nnue (133MiB, (22528, 3072, 15, 32, 1))
+   NNUE evaluation using nn-37f18f62d772.nnue (6MiB, (22528, 128, 15, 32, 1))
+     2/2	00:00	         104	104k	+M1	Qf3xc6+
+   06/07/2025 10:05:35, Time for this analysis: 00:00:00, Rated time: 00:00
+
+8 of 27 matching moves
+06/07/2025 10:05:36, Total time: 0:00:50
+Rated time: 00:00 = 0 Seconds
