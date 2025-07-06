@@ -1,0 +1,21 @@
+[Event "casual classical game"]
+[Site "https://lichess.org/oBYV3NQD"]
+[Date "2025.07.03"]
+[White "lichess AI level 4"]
+[Black "eortass"]
+[Result "1-0"]
+[GameId "oBYV3NQD"]
+[UTCDate "2025.07.03"]
+[UTCTime "21:59:19"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "3600+0"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Three Knights Game"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 1:00:00] } 1... e5 { [%clk 1:00:00] } 2. Nc3 { [%clk 0:59:57] } 2... Nf6 { [%clk 0:59:57] } 3. Nf3 { [%clk 0:59:54] } { C42 Petrov's Defense: Three Knights Game } 3... Bb4 { [%clk 0:59:56] } 4. Nd5 { [%clk 0:59:52] } 4... d6 { [%clk 0:59:46] } 5. c3 { [%clk 0:59:48] } 5... Ba5 { [%clk 0:59:43] } 6. b4 { [%clk 0:59:44] } 6... Bb6 { [%clk 0:59:42] } 7. Nxf6+ { [%clk 0:59:38] } 7... Qxf6 { [%clk 0:59:39] } 8. d4 { [%clk 0:59:34] } 8... Bg4 { [%clk 0:59:36] } 9. Bg5 { [%clk 0:59:31] } 9... Qg6 { [%clk 0:59:30] } 10. Qd2 { [%clk 0:59:28] } 10... Qxe4+ { [%clk 0:59:09] } 11. Qe3 { [%clk 0:59:21] } 11... Qc2 { [%clk 0:58:42] } 12. Nxe5 { [%clk 0:59:17] } 12... dxe5 { [%clk 0:58:33] } 13. Rc1 { [%clk 0:59:10] } 13... Qf5 { [%clk 0:58:11] } 14. Bd3 { [%clk 0:59:06] } 14... Qd7 { [%clk 0:57:52] } 15. f3 { [%clk 0:59:02] } 15... Bf5 { [%clk 0:57:48] } 16. Qxe5+ { [%clk 0:58:59] } 16... Qe6 { [%clk 0:57:42] } 17. Bxf5 { [%clk 0:58:55] } { Black resigns. } 1-0
+
+
