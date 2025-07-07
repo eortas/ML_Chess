@@ -6,7 +6,7 @@ Crea un modelo que, dado:
 
 Duración de partida (número de movimientos o tiempo),
 
-ELO de ambos jugadores,
+ELO de jugador blanco,
 
 Apertura usada,
 
@@ -17,9 +17,9 @@ Situación actual (ganando/perdiendo),
 El resultado, obvio
 
 
-prediga el ELO del jugador
+prediga el ELO del jugador negro
 
-### 2 Proyecto : Propuesta 
+### 2 Proyecto : Mejoras en desarrollo
 Objetivo:
 Crear un modelo que desde una posición calcule con ML el número de jugadas que llevan jugadas.
 En caso de no introducir una posición inicial el tablero se inicia desde la posición inicial.
