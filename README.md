@@ -1,7 +1,6 @@
-# ML_Chess
-![the-queens-gambit-netflix copia](https://github.com/user-attachments/assets/29cace17-b1ef-4045-917b-97ca7c38091a)
+![Modelo](../data/img/the-queens-gambit-netflix%20copia.jpg)
 
-### 1 Proyecto : Análisis predictivo y estadístico de partidas
+### 1 Proyecto : Análisis estadístico de partidas para cálculo rendimiento de jugadores
 Objetivo:
 Crea un modelo que, dado:
 
@@ -11,37 +10,25 @@ ELO de ambos jugadores,
 
 Apertura usada,
 
-Cantidad de errores graves (blunders),
+Cantidad de errores graves (blunders), jugadas buenas para evaluar tanto la partida (caótica, normal, genial) como el nivel de los jugadores, si han rendido en función a su rendimiento máximo.
 
 Situación actual (ganando/perdiendo),
 
-prediga probabilidades clave como:
+El resultado, obvio
 
-- Probabilidad de ganar,
 
-- Probabilidad de remontar si vas perdiendo,
+prediga el ELO del jugador
 
-- Impacto de la apertura en el resultado,
-
-- Riesgo de cometer blunders según la duración o el nivel.
-
-### 2 Proyecto : Propuesta de MVP 
+### 2 Proyecto : Propuesta 
 Objetivo:
-Crear un modelo que recomiende la mejor jugada para una determinada posición.
-La partida inicia desde una posición concreta (ej: escribiendo una FEN o eligiendo una apertura).
+Crear un modelo que desde una posición calcule con ML el número de jugadas que llevan jugadas.
+En caso de no introducir una posición inicial el tablero se inicia desde la posición inicial.
 
 La app muestra el tablero en un gráfico.
 
-El modelo entrenado con la base de datos recomienda la siguiente jugada.
+El modelo acepta jugadas del jugador humano y un motor de ajedrez juega por el otro bando.
 
-Se actualiza el tablero.
+Al terminar la partida se puede aplicar el modelo 1 para calcular el ELO del jugador humano.
 
-Se podría crear un bucle y otras mejoras todavía por definir.
-
-### 3 Proyecto: Propuesta de computer vision. *
-Objetivo:
-Crear un modelo que reconozca una posición a partir de una foto de un tablero real, lo muestre en pantalla y utilizando el proyecto 2 te recomiende las siguientes jugadas.
-
-* Solo se implementará si las circunstancias son favorables.
 
 
