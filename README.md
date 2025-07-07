@@ -1,6 +1,6 @@
-![Modelo](../data/img/the-queens-gambit-netflix%20copia.jpg)
-
-### 1 Proyecto : Análisis estadístico de partidas para cálculo rendimiento de jugadores
+![the-queens-gambit-netflix copia](https://github.com/user-attachments/assets/e6f75952-b13a-44f1-a12d-18ce18ad7f46)
+### 1 Proyecto : Análisis estadístico de partidas 
+para cálculo rendimiento de jugadores
 Objetivo:
 Crea un modelo que, dado:
 
